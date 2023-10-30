@@ -3,6 +3,10 @@
     "https://github.com/ryan12945/cube_ryan12945.git": [
       "https://github.com/ryan12945/cube_ryan12945.git",
       "1698669501256"
+    ],
+    "https://github.com/ryan12945/ChamferedParts_ryan12945.git": [
+      "https://github.com/ryan12945/ChamferedParts_ryan12945.git",
+      "1698669647950"
     ]
   },
   "studio-open-web": {},
@@ -10,6 +14,10 @@
     "https://github.com/ryan12945/cube_ryan12945.git:cube.groovy": [
       "https://github.com/ryan12945/cube_ryan12945.git",
       "cube.groovy"
+    ],
+    "https://github.com/ryan12945/ChamferedParts_ryan12945.git:ChamferedParts.groovy": [
+      "https://github.com/ryan12945/ChamferedParts_ryan12945.git",
+      "ChamferedParts.groovy"
     ]
   }
 }

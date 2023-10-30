@@ -1,9 +1,15 @@
 {
+  "workspace": {
+    "https://github.com/ryan12945/cube_ryan12945.git": [
+      "https://github.com/ryan12945/cube_ryan12945.git",
+      "1698669501256"
+    ]
+  },
   "studio-open-web": {},
-  "BowlerStudioConfigs": {
-    "fontsize": 12.0,
-    "skinBranch": "0.25.2",
-    "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
-    "notifiedArduinoDep": true
+  "studio-open-git": {
+    "https://github.com/ryan12945/cube_ryan12945.git:cube.groovy": [
+      "https://github.com/ryan12945/cube_ryan12945.git",
+      "cube.groovy"
+    ]
   }
 }
